@@ -9,14 +9,14 @@ var about = {
   "languages": ["Java"],
   "frameworks": [
     "Spring", "Spring Boot",
-    "Quarkus"
+    "Quarkus", 
     "Hibernate", "MyBatis"
   ],
   "tools": [
     "Docker", "Kubernetes", 
     "Kafka", 
     "MySql", "Redis",
-    "Maven (I hate Gradle)"
+    "Maven"
   ],
   "platforms": ["AWS", "Heroku"],
   "hobbies": [

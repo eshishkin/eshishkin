@@ -31,7 +31,7 @@ var about = {
 <h3 align="left">You can find me here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eugene-shishkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" alt='LinkedIn'/></a>
-<a href="https://instagram.com/eugene.shishkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" alt='Instagram'/></a>
+<!--<a href="https://instagram.com/eugene.shishkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" alt='Instagram'/></a>-->
 <a href="https://vk.com/eugene_shishkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" height="30" width="40" alt='VK'/></a>
 <a href="https://www.leetcode.com/eshishkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40" alt='Leetcode'/></a>
 </p>

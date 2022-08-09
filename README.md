@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugene</h1>
 
-Hi everyone. I am a software developer from Russia. I mainly program in Java, but also like non-traditional languages like Clojure or Haskell.
-I have a couple of side projects here on Github, that help me with my hobby - astronomy.
-
-
 ```js
 var about = {
   "languages": ["Java"],
